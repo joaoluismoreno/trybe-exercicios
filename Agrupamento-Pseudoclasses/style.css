@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+}
+
+li:hover  {
+background-color: cornflowerblue;
+list-style: none;
+}
+li:active {
+    color: antiquewhite;
+}
